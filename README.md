@@ -1,3 +1,30 @@
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=ASHIN+K+R"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=22D3EE&center=true&width=900&lines=Backend+Developer;Python+Developer;AI+%26+Data+Science;Always+Building+Something"/>
+
+<p>
+
+<a href="https://github.com/ash-in07">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/as.h_in_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ashin K R](https://www.linkedin.com/in/ashin-k-r-3aa7a6386?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashinkrvj@gmail.com) 
 
