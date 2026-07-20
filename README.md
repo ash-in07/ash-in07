@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:2563eb,100:0f172a&text=ASHIN%20K%20R&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=12,20,24,30&text=ASHIN%20K%20R&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40"/>
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Python+Developer;Backend+Developer;Data+Science+Enthusiast;AI+%26+Machine+Learning;Open+Source+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;AI+%26+Data+Science;Building+Cool+Things;Always+Learning"/>
 
-<p>
+<br>
+
 <a href="https://github.com/ash-in07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="YOUR-PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 </div>
 ## 🌐 Socials:
