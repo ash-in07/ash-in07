@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=700&color=00FFFF&center=true&width=900&lines=>>>+Ashin+K+R;>>>+Backend+Developer;>>>+Data+Science;>>>+Artificial+Intelligence;>>>+Open+Source"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=ASHIN%20K%20R&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=22"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Software+That+Matters;Backend+Developer+%7C+Python+Developer;Artificial+Intelligence+%7C+Data+Science"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=ash-in07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ash-in07?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/ash-in07?style=for-the-badge"/>
+</p>
 
 </div>
 ## 🌐 Socials:
