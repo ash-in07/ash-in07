@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=12,20,24,30&text=ASHIN%20K%20R&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40"/>
+<h1>
+Ashin K R
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;AI+%26+Data+Science;Building+Cool+Things;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=30&weight=600&duration=3500&pause=1200&color=8B949E&center=true&width=800&lines=Computer+Science+Student;Python+Developer;AI+%26+Machine+Learning;Backend+Developer;Creating+Useful+Software"/>
 
 <br>
 
-<a href="https://github.com/ash-in07">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR-PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/AI-10B981?style=flat-square"/>
 
 </div>
 ## 🌐 Socials:
