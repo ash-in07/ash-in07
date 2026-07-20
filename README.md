@@ -1,18 +1,6 @@
 <div align="center">
 
-<h1>
-Ashin K R
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=30&weight=600&duration=3500&pause=1200&color=8B949E&center=true&width=800&lines=Computer+Science+Student;Python+Developer;AI+%26+Machine+Learning;Backend+Developer;Creating+Useful+Software"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/AI-10B981?style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=700&color=00FFFF&center=true&width=900&lines=>>>+Ashin+K+R;>>>+Backend+Developer;>>>+Data+Science;>>>+Artificial+Intelligence;>>>+Open+Source"/>
 
 </div>
 ## 🌐 Socials:
