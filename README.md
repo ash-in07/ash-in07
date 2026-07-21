@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=ASHIN+K+R"/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines='Backend+Developer';'Data+Science+Studen't;'Passionate+About+Game+Development';'Lifelong+Learner+%26+Problem+Solver'" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Data+Science+Student;Passionate+About+Game+Development;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG"/>
 </p>
 
 <p>
