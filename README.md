@@ -26,12 +26,15 @@
 ---
 <a href="https://www.instagram.com/as.h_in_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
   
 <a href="https://www.linkedin.com/in/ashin-k-r-3aa7a6386?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+  
 <a href="mailto:ashinkrvj@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white>
-
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/as.h_in_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ashin K R](https://www.linkedin.com/in/ashin-k-r-3aa7a6386?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashinkrvj@gmail.com) 
 
