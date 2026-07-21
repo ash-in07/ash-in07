@@ -25,7 +25,7 @@
 
 ---
 <a href="https://www.instagram.com/as.h_in_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
   
 <a href="https://www.linkedin.com/in/ashin-k-r-3aa7a6386?utm_source=share_via&utm_content=profile&utm_medium=member_android">
@@ -33,7 +33,7 @@
 </a>
   
 <a href="mailto:ashinkrvj@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 # 💻 Tech Stack:
